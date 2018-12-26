@@ -19,6 +19,7 @@
   "homepage": "https://github.com/leonard-thieu/DefinitelyTyped-issue-30765#readme",
   "devDependencies": {
     "@types/jquery": "3.3.22",
-    "typescript": "3.1.5"
+    "@types/jqueryui": "^1.12.6",
+    "typescript": "3.1.6"
   }
 }
